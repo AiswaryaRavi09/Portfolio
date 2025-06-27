@@ -2,7 +2,7 @@
   "name": "vite-react-typescript-starter",
   "private": true,
   "homepage": "https://AiswaryaRavi09.github.io/Portfolio",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
  "scripts": {
   "dev": "vite",
